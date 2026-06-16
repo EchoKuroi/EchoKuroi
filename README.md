@@ -1,7 +1,7 @@
 
 
 ```bash
-$ boot_sequence --user shinnKernel
+$ boot_sequence --user EchoKuroi
 
 [✓] Identity Loaded
 
@@ -14,8 +14,8 @@ STATUS: ONLINE
 
 ```yaml
 USER:
-  name: ShinnKernel
-  age: 19
+  name: EchoKuroi
+  age: ??
 
 LANGUAGES:
   - PT-BR 🇧🇷 [██████████] Native
@@ -130,7 +130,7 @@ SYSTEM_SHUTDOWN_COMPLETE
 ## Hi there 👋
 
 <!--
-**shinnkerneel/shinnkerneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EchoKuroi/EchoKuroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
