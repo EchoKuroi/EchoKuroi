@@ -37,13 +37,6 @@
 
 <br />
 
-<h2 align="center">📊 GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xShinn&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShinn&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
 <br />
 
 <h2 align="center">📦 Featured Projects</h2>
